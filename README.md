@@ -9,4 +9,4 @@ Tareas de la clase Minería de Datos 003
 
 [Ejercicios de Python](https://github.com/dayanareyesj/Mineria-de-Datos/blob/main/_Ej_Python_1812288.ipynb)
 
-[Limpieza de Datos] (https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Ej_Limpieza_Equipo2.ipynb)
+[Limpieza de Datos](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Ej_Limpieza_Equipo2.ipynb)
