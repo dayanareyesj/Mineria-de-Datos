@@ -10,3 +10,5 @@ Tareas de la clase Minería de Datos 003
 [Ejercicios de Python](https://github.com/dayanareyesj/Mineria-de-Datos/blob/main/_Ej_Python_1812288.ipynb)
 
 [Limpieza de Datos](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Ej_Limpieza_Equipo2.ipynb)
+
+[Presentación-Patrones Secuenciales ] (https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Presentaci%C3%B3n_Patrones%20Secuenciales_2%20.pdf)
