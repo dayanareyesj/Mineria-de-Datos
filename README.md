@@ -12,3 +12,5 @@ Tareas de la clase Minería de Datos 003
 [Limpieza de Datos](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Ej_Limpieza_Equipo2.ipynb)
 
 [Presentación-Patrones Secuenciales](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Presentaci%C3%B3n_Patrones%20Secuenciales_2%20.pdf)
+
+[Avance PIA](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Avance1_PIA_Equipo2.ipynb)
