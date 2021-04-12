@@ -20,3 +20,5 @@ Tareas de la clase Minería de Datos 003
 [Calificaciones Kahoot-Patrones Secuenciales](https://github.com/arelitolentino/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Patrones-secuenciales_Equipo2.pdf)
 
 [Ejercicio-Patrones Secuenciales](https://github.com/arlettemartinezmartinez/MineriaDeDatos/blob/main/GSP.py)
+
+[Mapa Mental II](https://github.com/dayanareyesj/Mineria-de-Datos/blob/main/Mapa%20mental_2_1812288.pdf)
