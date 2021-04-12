@@ -21,4 +21,4 @@ Tareas de la clase Minería de Datos 003
 
 [Ejercicio-Patrones Secuenciales](https://github.com/arlettemartinezmartinez/MineriaDeDatos/blob/main/GSP.py)
 
-[Mapa Mental II](https://github.com/dayanareyesj/Mineria-de-Datos/blob/main/Mapa%20mental_2_1812288.pdf)
+[Mapa Mental II](https://github.com/dayanareyesj/Mineria-de-Datos/blob/main/Mapa_Mental_2_1812288.pdf)
