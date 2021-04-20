@@ -26,3 +26,5 @@ Tareas de la clase Minería de Datos 003
 [Práctica de visualización](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Visualizaci%C3%B3n_Equipo2.ipynb) 
 
 [Avance 2 PIA](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2.ipynb)
+
+[Avance 2 PIA-Versión 2](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2_Version2.ipynb)
