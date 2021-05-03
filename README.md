@@ -32,4 +32,4 @@ Tareas de la clase Minería de Datos 003
 [Avance 2 PIA-Versión 3](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/AvancePIA_II_Grupo003_Equipo2_Version3.ipynb)
 
 ## Fase III
-[PIA-Versión 1](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Poster_EsperanzadeVida_Equipo2.pdf)
+[PIA](https://github.com/LeslieSosa/Mineria-de-Datos-003/blob/main/Poster_EsperanzadeVida_Equipo2.pdf)
